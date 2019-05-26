@@ -1,0 +1,322 @@
+{"_id":{"$oid":"5cd7c6e0abf225748040ec26"},"flightNumber":"FR4480","airline":"Ryanair","arrival":"Žirona","arrivalIATA":"GRO","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec28"},"flightNumber":"FR8822","airline":"Ryanair","arrival":"Šanonas","arrivalIATA":"SNN","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec2a"},"flightNumber":"W98122","airline":"Wizz Air","arrival":"Londonas","arrivalIATA":"(Lutonas)","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec2c"},"flightNumber":"FR2144","airline":"Ryanair","arrival":"Londonas","arrivalIATA":"(Lutonas)","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec2e"},"flightNumber":"FR7620","airline":"Ryanair","arrival":"Kopenhaga","arrivalIATA":"CPH","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec2f"},"flightNumber":"FR2145","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Londonas","departureIATA":"(Lutonas)","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec31"},"flightNumber":"FR4481","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Žirona","departureIATA":"GRO","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec33"},"flightNumber":"FR8821","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Šanonas","departureIATA":"SNN","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec35"},"flightNumber":"W98121","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Londonas","departureIATA":"(Lutonas)","__v":0}
+{"_id":{"$oid":"5cd7c6e0abf225748040ec37"},"flightNumber":"FR2972","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Dublinas","departureIATA":"DUB","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec42"},"flightNumber":"BT033","airline":"AirBaltic","arrival":"Ryga","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec44"},"flightNumber":"W98102","airline":"Wizz Air","arrival":"Londonas/Lutonas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec46"},"flightNumber":"W68128","airline":"Wizz Air","arrival":"Dortmundas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec48"},"flightNumber":"BT035","airline":"AirBaltic","arrival":"Ryga","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec4a"},"flightNumber":"SK2746","airline":"SAS","arrival":"Kopenhaga","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec4b"},"flightNumber":"B2802","airline":"Belavia","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Minskas","departureIATA":"MSQ","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec4c"},"flightNumber":"AY1102","airline":"Finnair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Helsinkis","departureIATA":"HEL","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec4d"},"flightNumber":"W68089","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Reikjavikas","departureIATA":"KEF","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec4f"},"flightNumber":"DY1083","airline":"Norvegian Air Shuttle","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Oslas","departureIATA":"OSL","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec51"},"flightNumber":"BT342","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec52"},"flightNumber":"AY1101","airline":"Finnair","arrival":"Helsinkis","arrivalIATA":"HEL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec53"},"flightNumber":"DY1082","airline":"Norvegian Air Shuttle","arrival":"Oslas","arrivalIATA":"OSL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec55"},"flightNumber":"SU2104","airline":"Aeroflot","arrival":"Maskva","arrivalIATA":"SVO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec57"},"flightNumber":"TK4106","airline":"Turkish Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e1abf225748040ec59"},"flightNumber":"FR2744","airline":"Ryanair","arrival":"Barselona","arrivalIATA":"BCN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8c8"},"flightNumber":"FR4480","airline":"Ryanair","arrival":"Žirona","arrivalIATA":"GRO","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8ca"},"flightNumber":"FR8822","airline":"Ryanair","arrival":"Šanonas","arrivalIATA":"SNN","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8cc"},"flightNumber":"W98122","airline":"Wizz Air","arrival":"Londonas","arrivalIATA":"(Lutonas)","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8ce"},"flightNumber":"FR2144","airline":"Ryanair","arrival":"Londonas","arrivalIATA":"(Lutonas)","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d0"},"flightNumber":"FR7620","airline":"Ryanair","arrival":"Kopenhaga","arrivalIATA":"CPH","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d1"},"flightNumber":"FR2145","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Londonas","departureIATA":"(Lutonas)","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d3"},"flightNumber":"FR4481","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Žirona","departureIATA":"GRO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d5"},"flightNumber":"FR8821","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Šanonas","departureIATA":"SNN","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d7"},"flightNumber":"W98121","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Londonas","departureIATA":"(Lutonas)","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8d9"},"flightNumber":"FR2972","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Dublinas","departureIATA":"DUB","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8da"},"flightNumber":"BT033","airline":"AirBaltic","arrival":"Ryga","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8dc"},"flightNumber":"W98102","airline":"Wizz Air","arrival":"Londonas/Lutonas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8de"},"flightNumber":"W68128","airline":"Wizz Air","arrival":"Dortmundas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8e0"},"flightNumber":"BT035","airline":"AirBaltic","arrival":"Ryga","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8ed"},"flightNumber":"AY1101","airline":"Finnair","arrival":"Helsinkis","arrivalIATA":"HEL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8ee"},"flightNumber":"DY1082","airline":"Norvegian Air Shuttle","arrival":"Oslas","arrivalIATA":"OSL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8f0"},"flightNumber":"SU2104","airline":"Aeroflot","arrival":"Maskva","arrivalIATA":"SVO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8f2"},"flightNumber":"TK4106","airline":"Turkish Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8f4"},"flightNumber":"FR2744","airline":"Ryanair","arrival":"Barselona","arrivalIATA":"BCN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7c6e3a46f753c90b5b8f5"},"flightNumber":"B2802","airline":"Belavia","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Minskas","departureIATA":"MSQ","__v":0}
+{"_id":{"$oid":"5cd7c6e4a46f753c90b5b8f6"},"flightNumber":"AY1102","airline":"Finnair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Helsinkis","departureIATA":"HEL","__v":0}
+{"_id":{"$oid":"5cd7c6e4a46f753c90b5b8f7"},"flightNumber":"W68089","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Reikjavikas","departureIATA":"KEF","__v":0}
+{"_id":{"$oid":"5cd7c6e4a46f753c90b5b8f9"},"flightNumber":"DY1083","airline":"Norvegian Air Shuttle","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Oslas","departureIATA":"OSL","__v":0}
+{"_id":{"$oid":"5cd7c6e4a46f753c90b5b8fb"},"flightNumber":"BT342","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cd7c96672a19b4168914355"},"flightNumber":"BT032","airline":"AirBaltic","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Ryga","__v":0}
+{"_id":{"$oid":"5cd7c96672a19b4168914357"},"flightNumber":"W98101","airline":"Wizz Air","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Londonas/Lutonas","__v":0}
+{"_id":{"$oid":"5cd7c96672a19b4168914359"},"flightNumber":"W68127","airline":"Wizz Air","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Dortmundas","__v":0}
+{"_id":{"$oid":"5cd7c96672a19b416891435b"},"flightNumber":"BT036","airline":"AirBaltic","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Ryga","__v":0}
+{"_id":{"$oid":"5cd7c96672a19b416891435d"},"flightNumber":"SK2747","airline":"SAS","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Kopenhaga","__v":0}
+{"_id":{"$oid":"5cd7cdd05afd7d19042b8cc2"},"flightNumber":"FR1334","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Neapolis","departureIATA":"NAP","__v":0}
+{"_id":{"$oid":"5cd7cdd05afd7d19042b8cd4"},"flightNumber":"SU2105","airline":"Aeroflot","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Maskva","departureIATA":"SVO","__v":0}
+{"_id":{"$oid":"5cd7d0285afd7d19042b8cfa"},"flightNumber":"GW3526","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7d4d8eb7fc57264bf7196"},"flightNumber":"FR4978","airline":"Ryanair","arrival":"Atėnai","arrivalIATA":"ATH","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7d4d8eb7fc57264bf7198"},"flightNumber":"FR2743","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Barselona","departureIATA":"BCN","__v":0}
+{"_id":{"$oid":"5cd7d4d8eb7fc57264bf719a"},"flightNumber":"TK4107","airline":"Turkish Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cd7dbe0eb7fc57264bf71f4"},"flightNumber":"8Q726","airline":"Onur Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cd7de38eb7fc57264bf7214"},"flightNumber":"OS833","airline":"Austrian Airlines","arrival":"Viena","arrivalIATA":"VIE","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7de38eb7fc57264bf7216"},"flightNumber":"LH886","airline":"Lufthansa","arrival":"Frankfurtas","arrivalIATA":"FRA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd7de38eb7fc57264bf7218"},"flightNumber":"FR4979","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Atėnai","departureIATA":"ATH","__v":0}
+{"_id":{"$oid":"5cd7e798eb7fc57264bf7288"},"flightNumber":"GW3321","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Heraklionas","departureIATA":"HER","__v":0}
+{"_id":{"$oid":"5cd7e9f0eb7fc57264bf72a4"},"flightNumber":"OS834","airline":"Austrian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Viena","departureIATA":"VIE","__v":0}
+{"_id":{"$oid":"5cd7eea0eb7fc57264bf72d6"},"flightNumber":"LO772","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Varšuva","departureIATA":"WAW","__v":0}
+{"_id":{"$oid":"5cd7fa58eb7fc57264bf7322"},"flightNumber":"ENT5996","airline":"Enter Air","arrival":"Zakintas","arrivalIATA":"ZTH","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd7ff08eb7fc57264bf733c"},"flightNumber":"ENT5995","airline":"Enter Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Zakintas","departureIATA":"ZTH","__v":0}
+{"_id":{"$oid":"5cd803b9eb7fc57264bf735e"},"flightNumber":"BT345","airline":"Air Baltic","arrival":"Ryga","arrivalIATA":"RIX","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd80610eb7fc57264bf736a"},"flightNumber":"W68142","airline":"Wizz Air","arrival":"Olesiundas","arrivalIATA":"AES","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd80868eb7fc57264bf7378"},"flightNumber":"FR1333","airline":"Ryanair","arrival":"Neapolis","arrivalIATA":"NAP","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd80868eb7fc57264bf737a"},"flightNumber":"SK1742","airline":"Scandinavian Airlines","arrival":"Kopenhaga","arrivalIATA":"CPH","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd80868eb7fc57264bf737c"},"flightNumber":"SN2371","airline":"Brussels Airlines","arrival":"Briuselis","arrivalIATA":"BRU","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd80ac0eb7fc57264bf7388"},"flightNumber":"W68141","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Olesiundas","departureIATA":"AES","__v":0}
+{"_id":{"$oid":"5cd80f70eb7fc57264bf73b8"},"flightNumber":"FR1502","airline":"Ryanair","arrival":"Oslas","arrivalIATA":"OSL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd81678eb7fc57264bf73e8"},"flightNumber":"SN2372","airline":"Brussels Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Briuselis","departureIATA":"BRU","__v":0}
+{"_id":{"$oid":"5cd81678eb7fc57264bf73ea"},"flightNumber":"SK739","airline":"Scandinavian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stokholmas","departureIATA":"ARN","__v":0}
+{"_id":{"$oid":"5cd81678eb7fc57264bf73ee"},"flightNumber":"PS177","airline":"Ukraine International Airlines","arrival":"Kijevas","arrivalIATA":"KBP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd81678eb7fc57264bf73f0"},"flightNumber":"SK740","airline":"Scandinavian Airlines","arrival":"Stokholmas","arrivalIATA":"ARN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd81b28eb7fc57264bf7414"},"flightNumber":"LO779","airline":"LOT - Polskie Linie","arrival":"Varšuva","arrivalIATA":"WAW","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd81fd8eb7fc57264bf7432"},"flightNumber":"ENT5248","airline":"","arrival":"Palermas","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd81fd8eb7fc57264bf7436"},"flightNumber":"LO273","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"LCY","__v":0}
+{"_id":{"$oid":"5cd81fd8eb7fc57264bf7438"},"flightNumber":"PS178","airline":"Ukraine International Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kijevas","departureIATA":"KBP","__v":0}
+{"_id":{"$oid":"5cd82230eb7fc57264bf7440"},"flightNumber":"FR2971","airline":"Ryanair","arrival":"Dublinas","arrivalIATA":"DUB","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cd82488eb7fc57264bf745e"},"flightNumber":"FR7233","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Paryžius","departureIATA":"BVA","__v":0}
+{"_id":{"$oid":"5cd82488eb7fc57264bf7462"},"flightNumber":"SU2164","airline":"Aeroflot","arrival":"Maskva","arrivalIATA":"SVO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd82b90eb7fc57264bf7496"},"flightNumber":"AY1105","airline":"Finnair","arrival":"Helsinkis","arrivalIATA":"HEL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd83040eb7fc57264bf74ba"},"flightNumber":"AY1106","airline":"Finnair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Helsinkis","departureIATA":"HEL","__v":0}
+{"_id":{"$oid":"5cd83298eb7fc57264bf74c8"},"flightNumber":"LO775","airline":"LOT - Polskie Linie","arrival":"Varšuva","arrivalIATA":"WAW","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd834f0eb7fc57264bf74dc"},"flightNumber":"LO8355","airline":"LOT - Polskie Linie","arrival":"Talinas","arrivalIATA":"TLL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd83748eb7fc57264bf74e8"},"flightNumber":"ENT5247","airline":"","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Palermas","__v":0}
+{"_id":{"$oid":"5cd83748eb7fc57264bf74ea"},"flightNumber":"LO776","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Varšuva","departureIATA":"WAW","__v":0}
+{"_id":{"$oid":"5cd83e50eb7fc57264bf751c"},"flightNumber":"BT347","airline":"Air Baltic","arrival":"Ryga","arrivalIATA":"RIX","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd840a8eb7fc57264bf7528"},"flightNumber":"W68090","airline":"Wizz Air","arrival":"Reikjavikas","arrivalIATA":"KEF","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd840a8eb7fc57264bf752c"},"flightNumber":"SU2165","airline":"Aeroflot","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Maskva","departureIATA":"SVO","__v":0}
+{"_id":{"$oid":"5cd84300eb7fc57264bf753a"},"flightNumber":"TK1407","airline":"Turkish Airlines","arrival":"Stambulas","arrivalIATA":"IST","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd84300eb7fc57264bf753c"},"flightNumber":"LO8356","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Talinas","departureIATA":"TLL","__v":0}
+{"_id":{"$oid":"5cd84c60eb7fc57264bf7560"},"flightNumber":"FR7601","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Brėmenas","departureIATA":"BRE","__v":0}
+{"_id":{"$oid":"5cd85110eb7fc57264bf7572"},"flightNumber":"BT336","airline":"Air Baltic","arrival":"Talinas","arrivalIATA":"TLL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd85369eb7fc57264bf757c"},"flightNumber":"BT702","airline":"Air Baltic","arrival":"Paryžius","arrivalIATA":"CDG","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd85369eb7fc57264bf7580"},"flightNumber":"PS183","airline":"Ukraine International Airlines","arrival":"Kijevas","arrivalIATA":"KBP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd85369eb7fc57264bf7582"},"flightNumber":"GW3322","airline":"GetJet Airlines","arrival":"Heraklionas","arrivalIATA":"HER","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd86178eb7fc57264bf75c0"},"flightNumber":"GW3326","airline":"GetJet Airlines","arrival":"Heraklionas","arrivalIATA":"HER","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd863d0eb7fc57264bf75c4"},"flightNumber":"FR2245","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"STN","__v":0}
+{"_id":{"$oid":"5cd86ad8eb7fc57264bf75d6"},"flightNumber":"GW3536","airline":"GetJet Airlines","arrival":"Alanija","arrivalIATA":"GZP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd86f88eb7fc57264bf75e0"},"flightNumber":"FR2244","airline":"Ryanair","arrival":"Londonas","arrivalIATA":"STN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd86f88eb7fc57264bf75e4"},"flightNumber":"SU2108","airline":"Aeroflot","arrival":"Maskva","arrivalIATA":"SVO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd878e9eb7fc57264bf7606"},"flightNumber":"SK1740","airline":"Scandinavian Airlines","arrival":"Stokholmas","arrivalIATA":"ARN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd88248eb7fc57264bf7610"},"flightNumber":"SK742","airline":"Scandinavian Airlines","arrival":"Kopenhaga","arrivalIATA":"CPH","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd8cfa0eb7fc57264bf7612"},"flightNumber":"FR7621","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Kopenhaga","departureIATA":"CPH","__v":0}
+{"_id":{"$oid":"5cd8cfa0eb7fc57264bf7628"},"flightNumber":"SK2749","airline":"SAS","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Kopenhaga","__v":0}
+{"_id":{"$oid":"5cd8cfa0eb7fc57264bf7636"},"flightNumber":"GW3525","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cd8cfa0eb7fc57264bf7638"},"flightNumber":"BT350","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cd8cfa0eb7fc57264bf763a"},"flightNumber":"LH889","airline":"Lufthansa","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Frankfurtas","departureIATA":"FRA","__v":0}
+{"_id":{"$oid":"5cd8d900eb7fc57264bf76da"},"flightNumber":"W68001","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"LTN","__v":0}
+{"_id":{"$oid":"5cd8ddb0eb7fc57264bf7728"},"flightNumber":"LO271","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"LCY","__v":0}
+{"_id":{"$oid":"5cd8ee18eb7fc57264bf7810"},"flightNumber":"LO8351","airline":"LOT - Polskie Linie","arrival":"Talinas","arrivalIATA":"TLL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd8f9d0eb7fc57264bf78aa"},"flightNumber":"BT609","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Amsterdamas","departureIATA":"AMS","__v":0}
+{"_id":{"$oid":"5cd8fc28eb7fc57264bf78c8"},"flightNumber":"LO8352","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Talinas","departureIATA":"TLL","__v":0}
+{"_id":{"$oid":"5cd8fe80eb7fc57264bf78ea"},"flightNumber":"BT341","airline":"Air Baltic","arrival":"Ryga","arrivalIATA":"RIX","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd8fe80eb7fc57264bf78ee"},"flightNumber":"BT331","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Talinas","departureIATA":"TLL","__v":0}
+{"_id":{"$oid":"5cd92d61eb7fc57264bf7994"},"flightNumber":"GW3524","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd92d61eb7fc57264bf7996"},"flightNumber":"W68002","airline":"Wizz Air","arrival":"Londonas","arrivalIATA":"LTN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cd92d61eb7fc57264bf799a"},"flightNumber":"FR9621","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Liverpulis","departureIATA":"LPL","__v":0}
+{"_id":{"$oid":"5cd93211eb7fc57264bf79c6"},"flightNumber":"W68021","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Paryžius","departureIATA":"BVA","__v":0}
+{"_id":{"$oid":"5cd93469eb7fc57264bf79de"},"flightNumber":"GW3537","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Alanija","departureIATA":"GZP","__v":0}
+{"_id":{"$oid":"5cd93919eb7fc57264bf7a14"},"flightNumber":"BT344","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf66"},"flightNumber":"FR9098","airline":"Ryanair","arrival":"Alikantė","arrivalIATA":"ALC","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf68"},"flightNumber":"FR5408","airline":"Ryanair","arrival":"Milanas","arrivalIATA":"MXP","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf6a"},"flightNumber":"FR8681","airline":"Ryanair","arrival":"Bristolis","arrivalIATA":"BRS","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf6c"},"flightNumber":"FR7886","airline":"Ryanair","arrival":"Maljorkos","arrivalIATA":"Palma","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf6e"},"flightNumber":"FR9099","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Alikantė","departureIATA":"ALC","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf70"},"flightNumber":"FR5409","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Milanas","departureIATA":"MXP","__v":0}
+{"_id":{"$oid":"5cdaf6687195ba23601baf74"},"flightNumber":"FR6458","airline":"Ryanair","arrival":"Briuselis","arrivalIATA":"CRL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdaf8c07195ba23601baf84"},"flightNumber":"BT348","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cdaf8c07195ba23601baf86"},"flightNumber":"FR6459","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Briuselis","departureIATA":"CRL","__v":0}
+{"_id":{"$oid":"5cdafb187195ba23601bafa2"},"flightNumber":"FR2872","airline":"Ryanair","arrival":"Milanas","arrivalIATA":"Bergamo","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdafb187195ba23601bafa8"},"flightNumber":"FR2871","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Milanas","departureIATA":"Bergamo","__v":0}
+{"_id":{"$oid":"5cdafd707195ba23601bafb8"},"flightNumber":"DY4556","airline":"Norvegian Air Shuttle","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stokholmas","departureIATA":"ARN","__v":0}
+{"_id":{"$oid":"5cdb06d07195ba23601bb00a"},"flightNumber":"FR3467","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"LTN","__v":0}
+{"_id":{"$oid":"5cdb10307195ba23601bb034"},"flightNumber":"FR3466","airline":"Ryanair","arrival":"Londonas","arrivalIATA":"LTN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdb12887195ba23601bb03e"},"flightNumber":"W68030","airline":"Wizz Air","arrival":"Nica","arrivalIATA":"NCE","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdb12887195ba23601bb040"},"flightNumber":"FR7148","airline":"Ryanair","arrival":"Dublinas","arrivalIATA":"","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdb17387195ba23601bb04e"},"flightNumber":"FR7149","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Dublinas","departureIATA":"","__v":0}
+{"_id":{"$oid":"5cdb25487195ba23601bb06a"},"flightNumber":"LO274","airline":"LOT - Polskie Linie","arrival":"Londonas","arrivalIATA":"LCY","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdb29f87195ba23601bb070"},"flightNumber":"LH888","airline":"Lufthansa","arrival":"Frankfurtas","arrivalIATA":"FRA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdb72a0a356593d94a5d778"},"flightNumber":"LO796","airline":"LOT Polish Airlines","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Varšuva","departureIATA":"WAW","__v":0}
+{"_id":{"$oid":"5cdb72a0a356593d94a5d786"},"flightNumber":"GW3325","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Heraklionas","departureIATA":"HER","__v":0}
+{"_id":{"$oid":"5cdb9cd0a356593d94a5d9e0"},"flightNumber":"VOE9548","airline":"","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Talinas","departureIATA":"TLL","__v":0}
+{"_id":{"$oid":"5cdba181a356593d94a5da26"},"flightNumber":"W68018","airline":"Wizz Air","arrival":"Lvovas","arrivalIATA":"LWO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdba631a356593d94a5da7a"},"flightNumber":"LO777","airline":"LOT - Polskie Linie","arrival":"Varšuva","arrivalIATA":"WAW","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdbb1e8a356593d94a5db2e"},"flightNumber":"LO778","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Varšuva","departureIATA":"WAW","__v":0}
+{"_id":{"$oid":"5cdbb1e8a356593d94a5db30"},"flightNumber":"BT332","airline":"Air Baltic","arrival":"Talinas","arrivalIATA":"TLL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdbbb4aa356593d94a5dbbe"},"flightNumber":"SK744","airline":"Scandinavian Airlines","arrival":"Kopenhaga","arrivalIATA":"CPH","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdbbffaa356593d94a5dc04"},"flightNumber":"SK738","airline":"Scandinavian Airlines","arrival":"Stokholmas","arrivalIATA":"ARN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdbc250a356593d94a5dc1a"},"flightNumber":"FR2747","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Londonas","departureIATA":"(Stanstedas)","__v":0}
+{"_id":{"$oid":"5cdbc253a356593d94a5dc28"},"flightNumber":"TK1409","airline":"Turkish Airlines","arrival":"Stambulas","arrivalIATA":"IST","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdbecc6a356593d94a5dc34"},"flightNumber":"CAI343","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdbecc6a356593d94a5dc42"},"flightNumber":"CAI343","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdbecc7a356593d94a5dc5e"},"flightNumber":"CAI343","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdbecc7a356593d94a5dc66"},"flightNumber":"CAI343","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdbecc7a356593d94a5dc72"},"flightNumber":"CAI343","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdc55f8754a9b13bc85e26d"},"flightNumber":"FR2746","airline":"Ryanair","arrival":"Londonas","arrivalIATA":"(Stanstedas)","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdc55f8754a9b13bc85e26f"},"flightNumber":"FR1606","airline":"Ryanair","arrival":"Kelnas","arrivalIATA":"CGN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdc55f8754a9b13bc85e275"},"flightNumber":"FR1607","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kelnas","departureIATA":"CGN","__v":0}
+{"_id":{"$oid":"5cdc7475f18e0d0010cb9d71"},"flightNumber":"GW3528","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdc7475f18e0d0010cb9d75"},"flightNumber":"BT228","airline":"Air Baltic","arrival":"Miunchenas","arrivalIATA":"MUC","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdc802ff18e0d0010cb9dbb"},"flightNumber":"BT349","airline":"Air Baltic","arrival":"Ryga","arrivalIATA":"RIX","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdcee51f18e0d0010cb9de1"},"flightNumber":"DY1086","airline":"Norwegian","arrival":"Oslas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cdcee51f18e0d0010cb9deb"},"flightNumber":"DY1087","airline":"Norwegian","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Oslas","__v":0}
+{"_id":{"$oid":"5cdcee52f18e0d0010cb9dff"},"flightNumber":"FR5546","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Trevizas","__v":0}
+{"_id":{"$oid":"5cdcee52f18e0d0010cb9e01"},"flightNumber":"SK1741","airline":"Scandinavian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stokholmas","departureIATA":"ARN","__v":0}
+{"_id":{"$oid":"5cdcee52f18e0d0010cb9e03"},"flightNumber":"PS184","airline":"Ukraine International Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kijevas","departureIATA":"KBP","__v":0}
+{"_id":{"$oid":"5cdcee52f18e0d0010cb9e05"},"flightNumber":"W68025","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Eindhovenas","departureIATA":"EIN","__v":0}
+{"_id":{"$oid":"5cdcfa0bf18e0d0010cb9f01"},"flightNumber":"B2801","airline":"Belavia","arrival":"Minskas","arrivalIATA":"MSQ","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdcfebaf18e0d0010cb9f6d"},"flightNumber":"FHY805","airline":"Freebird Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd0ccaf18e0d0010cba07f"},"flightNumber":"FR1570","airline":"Ryanair","arrival":"Berlynas","arrivalIATA":"SXF","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd0ccaf18e0d0010cba08b"},"flightNumber":"FR1571","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Berlynas","departureIATA":"SXF","__v":0}
+{"_id":{"$oid":"5cdd117cf18e0d0010cba0e3"},"flightNumber":"FHY709","airline":"Freebird Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd162bf18e0d0010cba13d"},"flightNumber":"FHY806","airline":"Freebird Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdd1d33f18e0d0010cba1b5"},"flightNumber":"8Q725","airline":"Onur Air","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd1d33f18e0d0010cba1b7"},"flightNumber":"8Q2725","airline":"Onur Air","arrival":"Bodrumas","arrivalIATA":"BJV","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd1f8bf18e0d0010cba1e3"},"flightNumber":"FR9622","airline":"Ryanair","arrival":"Liverpulis","arrivalIATA":"LPL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd1f8bf18e0d0010cba1eb"},"flightNumber":"SK745","airline":"Scandinavian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kopenhaga","departureIATA":"CPH","__v":0}
+{"_id":{"$oid":"5cdd1f8bf18e0d0010cba1ed"},"flightNumber":"SK741","airline":"Scandinavian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stokholmas","departureIATA":"ARN","__v":0}
+{"_id":{"$oid":"5cdd21e2f18e0d0010cba20f"},"flightNumber":"FHY710","airline":"Freebird Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdd243bf18e0d0010cba23b"},"flightNumber":"FR5547","airline":"Ryanair","arrival":"Trevizas","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd2693f18e0d0010cba265"},"flightNumber":"GW3432","airline":"GetJet Airlines","arrival":"Tivat","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd2694f18e0d0010cba271"},"flightNumber":"TK1410","airline":"Turkish Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stambulas","departureIATA":"IST","__v":0}
+{"_id":{"$oid":"5cdd2ff2f18e0d0010cba311"},"flightNumber":"LO771","airline":"LOT - Polskie Linie","arrival":"Varšuva","arrivalIATA":"WAW","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd324bf18e0d0010cba339"},"flightNumber":"8Q2726","airline":"Onur Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Bodrumas","departureIATA":"BJV","__v":0}
+{"_id":{"$oid":"5cdd324bf18e0d0010cba33b"},"flightNumber":"W68051","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Milanas","departureIATA":"MXP","__v":0}
+{"_id":{"$oid":"5cdd324bf18e0d0010cba33d"},"flightNumber":"FR5406","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kijevas","departureIATA":"KBP","__v":0}
+{"_id":{"$oid":"5cdd34a3f18e0d0010cba369"},"flightNumber":"BT343","airline":"Air Baltic","arrival":"Ryga","arrivalIATA":"RIX","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd3e03f18e0d0010cba421"},"flightNumber":"W68026","airline":"Wizz Air","arrival":"Eindhovenas","arrivalIATA":"EIN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd42b3f18e0d0010cba469"},"flightNumber":"BT610","airline":"Air Baltic","arrival":"Amsterdamas","arrivalIATA":"AMS","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd42b3f18e0d0010cba46b"},"flightNumber":"AY1107","airline":"Finnair","arrival":"Helsinkis","arrivalIATA":"HEL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd450af18e0d0010cba491"},"flightNumber":"CAI344","airline":"Corendon Airlines","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdd450af18e0d0010cba4a7"},"flightNumber":"LO272","airline":"LOT - Polskie Linie","arrival":"Londonas","arrivalIATA":"LCY","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd4763f18e0d0010cba4c5"},"flightNumber":"GW3724","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd49bcf18e0d0010cba4f7"},"flightNumber":"LH887","airline":"Lufthansa","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Frankfurtas","departureIATA":"FRA","__v":0}
+{"_id":{"$oid":"5cdd4c13f18e0d0010cba511"},"flightNumber":"W66278","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kijevas","departureIATA":"IEV","__v":0}
+{"_id":{"$oid":"5cdd4c13f18e0d0010cba513"},"flightNumber":"GW3523","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdd4e6bf18e0d0010cba543"},"flightNumber":"AY1108","airline":"Finnair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Helsinkis","departureIATA":"HEL","__v":0}
+{"_id":{"$oid":"5cdd531af18e0d0010cba58b"},"flightNumber":"BT701","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Paryžius","departureIATA":"CDG","__v":0}
+{"_id":{"$oid":"5cdd531af18e0d0010cba58d"},"flightNumber":"GW3535","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Alanija","departureIATA":"GZP","__v":0}
+{"_id":{"$oid":"5cdd57ccf18e0d0010cba5c7"},"flightNumber":"LO780","airline":"LOT - Polskie Linie","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Varšuva","departureIATA":"WAW","__v":0}
+{"_id":{"$oid":"5cdd5a25f18e0d0010cba5ed"},"flightNumber":"SK1743","airline":"Scandinavian Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Kopenhaga","departureIATA":"CPH","__v":0}
+{"_id":{"$oid":"5cdd612af18e0d0010cba645"},"flightNumber":"W68079","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Oslas","departureIATA":"TRF","__v":0}
+{"_id":{"$oid":"5cdd612af18e0d0010cba647"},"flightNumber":"GW3635","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Larnaka","departureIATA":"LCA","__v":0}
+{"_id":{"$oid":"5cdd6382f18e0d0010cba673"},"flightNumber":"BT346","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Ryga","departureIATA":"RIX","__v":0}
+{"_id":{"$oid":"5cdd6832f18e0d0010cba6ab"},"flightNumber":"FR8659","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Malta","departureIATA":"MLA","__v":0}
+{"_id":{"$oid":"5cdd6ce4f18e0d0010cba6f5"},"flightNumber":"W66277","airline":"Wizz Air","arrival":"Kijevas","arrivalIATA":"IEV","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd7193f18e0d0010cba72b"},"flightNumber":"FR5407","airline":"Ryanair","arrival":"Kijevas","arrivalIATA":"KBP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd7643f18e0d0010cba773"},"flightNumber":"LH896","airline":"Lufthansa","arrival":"Frankfurtas","arrivalIATA":"FRA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd7d4af18e0d0010cba7bd"},"flightNumber":"W68063","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Barselona","departureIATA":"BCN","__v":0}
+{"_id":{"$oid":"5cdd86aaf18e0d0010cba82d"},"flightNumber":"LH897","airline":"Lufthansa","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Frankfurtas","departureIATA":"FRA","__v":0}
+{"_id":{"$oid":"5cdd8b5bf18e0d0010cba85d"},"flightNumber":"W68052","airline":"Wizz Air","arrival":"Milanas","arrivalIATA":"MXP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd8db2f18e0d0010cba86b"},"flightNumber":"W68080","airline":"Wizz Air","arrival":"Oslas","arrivalIATA":"TRF","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdd9262f18e0d0010cba89f"},"flightNumber":"BT335","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Talinas","departureIATA":"TLL","__v":0}
+{"_id":{"$oid":"5cdd9262f18e0d0010cba8a1"},"flightNumber":"W68005","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Londonas","departureIATA":"LTN","__v":0}
+{"_id":{"$oid":"5cdd9714f18e0d0010cba8cb"},"flightNumber":"W68013","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Belfastas","departureIATA":"BFS","__v":0}
+{"_id":{"$oid":"5cdda77af18e0d0010cba975"},"flightNumber":"DY4555","airline":"Norvegian Air Shuttle","arrival":"Stokholmas","arrivalIATA":"ARN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cddccfaf18e0d0010cbaadf"},"flightNumber":"FR8658","airline":"Ryanair","arrival":"Malta","arrivalIATA":"MLA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cde3fd2f18e0d0010cbab63"},"flightNumber":"FR9113","airline":"Ryanair","arrival":"Pafos","arrivalIATA":"PFO","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cde3fd2f18e0d0010cbab65"},"flightNumber":"W68146","airline":"Wizz Air","arrival":"Stavangeris","arrivalIATA":"SVG","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cde3fd2f18e0d0010cbab71"},"flightNumber":"FR9114","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Pafos","departureIATA":"PFO","__v":0}
+{"_id":{"$oid":"5cde3fd2f18e0d0010cbab73"},"flightNumber":"W68145","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Stavangeris","departureIATA":"SVG","__v":0}
+{"_id":{"$oid":"5cde3fd3f18e0d0010cbab79"},"flightNumber":"W68031","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Dortmundas","departureIATA":"DTM","__v":0}
+{"_id":{"$oid":"5cde3fd3f18e0d0010cbab7d"},"flightNumber":"FR5103","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Amanas","__v":0}
+{"_id":{"$oid":"5cde5e4af18e0d0010cbadd5"},"flightNumber":"CAI317","airline":"Corendon Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cde6c5df18e0d0010cbaed5"},"flightNumber":"FR5043","airline":"Ryanair","arrival":"Lidsas","arrivalIATA":"LBA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cde75baf18e0d0010cbaf83"},"flightNumber":"CAI318","airline":"Corendon Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cde7f1cf18e0d0010cbb02f"},"flightNumber":"FR5044","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Lidsas","departureIATA":"LBA","__v":0}
+{"_id":{"$oid":"5cde83c9f18e0d0010cbb07b"},"flightNumber":"FR3965","airline":"Ryanair","arrival":"Riminis","arrivalIATA":"RMI","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cde83c9f18e0d0010cbb07d"},"flightNumber":"FR3964","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Riminis","departureIATA":"RMI","__v":0}
+{"_id":{"$oid":"5cde968bf18e0d0010cbb1cd"},"flightNumber":"GW3510","airline":"GetJet Airlines","arrival":"Bodrumas","arrivalIATA":"BJV","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cde968bf18e0d0010cbb1cf"},"flightNumber":"W68044","airline":"Wizz Air","arrival":"Larnaka","arrivalIATA":"LCA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdea243f18e0d0010cbb263"},"flightNumber":"BT215","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Berlynas","departureIATA":"TXL","__v":0}
+{"_id":{"$oid":"5cdea49af18e0d0010cbb277"},"flightNumber":"GW3351","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Enfidha","__v":0}
+{"_id":{"$oid":"5cdeadfbf18e0d0010cbb2f1"},"flightNumber":"GW3533","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdeb2abf18e0d0010cbb329"},"flightNumber":"GW3723","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5cdec7c2f18e0d0010cbb401"},"flightNumber":"FR5102","airline":"Ryanair","arrival":"Amanas","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdecc72f18e0d0010cbb433"},"flightNumber":"W68032","airline":"Wizz Air","arrival":"Dortmundas","arrivalIATA":"DTM","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cded5d2f18e0d0010cbb48b"},"flightNumber":"BT216","airline":"Air Baltic","arrival":"Berlynas","arrivalIATA":"TXL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdeda83f18e0d0010cbb4c1"},"flightNumber":"W68069","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Bilundas","departureIATA":"BLL","__v":0}
+{"_id":{"$oid":"5cdedf32f18e0d0010cbb4df"},"flightNumber":"FR2517","airline":"Ryanair","arrival":"Madridas","arrivalIATA":"MAD","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdedf32f18e0d0010cbb4e9"},"flightNumber":"BT227","airline":"Air Baltic","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Miunchenas","departureIATA":"MUC","__v":0}
+{"_id":{"$oid":"5cdee3e2f18e0d0010cbb519"},"flightNumber":"W68022","airline":"Wizz Air","arrival":"Paryžius","arrivalIATA":"BVA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdeeaeaf18e0d0010cbb543"},"flightNumber":"B2803","airline":"Belavia","arrival":"Minskas","arrivalIATA":"MSQ","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdeed42f18e0d0010cbb559"},"flightNumber":"FR2518","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Madridas","departureIATA":"MAD","__v":0}
+{"_id":{"$oid":"5cdef1f2f18e0d0010cbb577"},"flightNumber":"W68009","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Donkasteris","departureIATA":"DSA","__v":0}
+{"_id":{"$oid":"5cdef1f2f18e0d0010cbb579"},"flightNumber":"TK1408","airline":"Turkish Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Stambulas","departureIATA":"IST","__v":0}
+{"_id":{"$oid":"5cdef1f2f18e0d0010cbb57b"},"flightNumber":"B2804","airline":"Belavia","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Minskas","departureIATA":"MSQ","__v":0}
+{"_id":{"$oid":"5cdefb53f18e0d0010cbb5c7"},"flightNumber":"W68070","airline":"Wizz Air","arrival":"Bilundas","arrivalIATA":"BLL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf025af18e0d0010cbb5ef"},"flightNumber":"GW3534","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf04b4f18e0d0010cbb5ff"},"flightNumber":"GW3352","airline":"GetJet Airlines","arrival":"Enfidha","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf2a32f18e0d0010cbb6ab"},"flightNumber":"BV6467","airline":"Blue Panorama","arrival":"Nosse-Be","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf2c8af18e0d0010cbb6b5"},"flightNumber":"FR7234","airline":"Ryanair","arrival":"Paryžius","arrivalIATA":"BVA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf9151f18e0d0010cbb6d1"},"flightNumber":"FR287","airline":"Ryanair","arrival":"Palanga","arrivalIATA":"PLQ","departure":"Londonas/Stanstedas","__v":0}
+{"_id":{"$oid":"5cdf9151f18e0d0010cbb6d7"},"flightNumber":"FR286","airline":"Ryanair","arrival":"Londonas/Stanstedas","departure":"Palanga","departureIATA":"PLQ","__v":0}
+{"_id":{"$oid":"5cdf9152f18e0d0010cbb6db"},"flightNumber":"W68152","airline":"Wizz Air","arrival":"Eindhovenas","arrivalIATA":"EIN","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdf9152f18e0d0010cbb6dd"},"flightNumber":"W68144","airline":"Wizz Air","arrival":"Bergenas","arrivalIATA":"BGO","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdf9152f18e0d0010cbb6e1"},"flightNumber":"FR5425","airline":"Ryanair","arrival":"Tel","arrivalIATA":"Avivas","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5cdf9152f18e0d0010cbb6e5"},"flightNumber":"FR5424","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Tel","departureIATA":"Avivas","__v":0}
+{"_id":{"$oid":"5cdf9152f18e0d0010cbb6e9"},"flightNumber":"W68151","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Eindhovenas","departureIATA":"EIN","__v":0}
+{"_id":{"$oid":"5cdf9153f18e0d0010cbb6fb"},"flightNumber":"FHY717","airline":"Freebird Airlines","arrival":"Alanija","arrivalIATA":"GZP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdf9602f18e0d0010cbb745"},"flightNumber":"W68143","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Bergenas","departureIATA":"BGO","__v":0}
+{"_id":{"$oid":"5cdfa66cf18e0d0010cbb8b1"},"flightNumber":"FHY718","airline":"Freebird Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Alanija","departureIATA":"GZP","__v":0}
+{"_id":{"$oid":"5cdfad73f18e0d0010cbb939"},"flightNumber":"FR9397","airline":"Ryanair","arrival":"Roma","arrivalIATA":"CIA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdfafcaf18e0d0010cbb965"},"flightNumber":"DCW1","airline":"","arrival":"Kijevas","arrivalIATA":"IEV","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdfbddaf18e0d0010cbba73"},"flightNumber":"FR9398","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Roma","departureIATA":"CIA","__v":0}
+{"_id":{"$oid":"5cdfbddaf18e0d0010cbba77"},"flightNumber":"FR4445","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Korfu","__v":0}
+{"_id":{"$oid":"5cdfc4e2f18e0d0010cbbaff"},"flightNumber":"FR1760","airline":"Ryanair","arrival":"Niurnbergas","arrivalIATA":"NUE","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdfd54af18e0d0010cbbc37"},"flightNumber":"FR1761","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Niurnbergas","departureIATA":"NUE","__v":0}
+{"_id":{"$oid":"5cdfe5b2f18e0d0010cbbd47"},"flightNumber":"GW3374","airline":"GetJet Airlines","arrival":"Rodas","arrivalIATA":"RHO","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdfef12f18e0d0010cbbddf"},"flightNumber":"GW3327","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Heraklionas","departureIATA":"HER","__v":0}
+{"_id":{"$oid":"5cdfef12f18e0d0010cbbde1"},"flightNumber":"GW3741","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Palma","departureIATA":"de","__v":0}
+{"_id":{"$oid":"5cdfef12f18e0d0010cbbdeb"},"flightNumber":"W68094","airline":"Wizz Air","arrival":"Tel","arrivalIATA":"Avivas","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cdffd23f18e0d0010cbbec7"},"flightNumber":"W68029","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Nica","departureIATA":"NCE","__v":0}
+{"_id":{"$oid":"5ce001d3f18e0d0010cbbf19"},"flightNumber":"GW3763","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Barselona","departureIATA":"BCN","__v":0}
+{"_id":{"$oid":"5ce00d8af18e0d0010cbbfc5"},"flightNumber":"FR4444","airline":"Ryanair","arrival":"Korfu","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce01df3f18e0d0010cbc0b1"},"flightNumber":"FR1857","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Frankfurtas","departureIATA":"HHN","__v":0}
+{"_id":{"$oid":"5ce02752f18e0d0010cbc107"},"flightNumber":"TVP7489","airline":"Travel Service Polska","arrival":"Korfu","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce0330af18e0d0010cbc169"},"flightNumber":"TVP7488","airline":"Travel Service Polska","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Korfu","__v":0}
+{"_id":{"$oid":"5ce05633f18e0d0010cbc27d"},"flightNumber":"GW3328","airline":"GetJet Airlines","arrival":"Heraklionas","arrivalIATA":"HER","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce061eaf18e0d0010cbc2cd"},"flightNumber":"GW3742","airline":"GetJet Airlines","arrival":"Palma","arrivalIATA":"de","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce0669bf18e0d0010cbc2eb"},"flightNumber":"FR1856","airline":"Ryanair","arrival":"Frankfurtas","arrivalIATA":"HHN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce0e2d2f18e0d0010cbc36b"},"flightNumber":"FR5164","airline":"Ryanair","arrival":"Bolonija","arrivalIATA":"BLQ","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5ce0e2d2f18e0d0010cbc36d"},"flightNumber":"W68148","airline":"Wizz Air","arrival":"Turku","arrivalIATA":"TKU","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5ce0e2d2f18e0d0010cbc379"},"flightNumber":"FR5165","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Bolonija","departureIATA":"BLQ","__v":0}
+{"_id":{"$oid":"5ce0e2d2f18e0d0010cbc37b"},"flightNumber":"W68147","airline":"Wizz Air","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Turku","departureIATA":"TKU","__v":0}
+{"_id":{"$oid":"5ce0e2d3f18e0d0010cbc37d"},"flightNumber":"W68039","airline":"Wizz Air","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Atėnai","departureIATA":"ATH","__v":0}
+{"_id":{"$oid":"5ce11b12f18e0d0010cbc851"},"flightNumber":"FR8682","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Bristolis","departureIATA":"BRS","__v":0}
+{"_id":{"$oid":"5ce11b12f18e0d0010cbc853"},"flightNumber":"FR2422","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Rodas","departureIATA":"RHO","__v":0}
+{"_id":{"$oid":"5ce13733f18e0d0010cbcaa1"},"flightNumber":"W68040","airline":"Wizz Air","arrival":"Atėnai","arrivalIATA":"ATH","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce13be2f18e0d0010cbcaf9"},"flightNumber":"W68046","airline":"Wizz Air","arrival":"Kutaisis","arrivalIATA":"KUT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce171caf18e0d0010cbcd25"},"flightNumber":"FR7885","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Maljorka","departureIATA":"PMI","__v":0}
+{"_id":{"$oid":"5ce171caf18e0d0010cbcd27"},"flightNumber":"FR2885","airline":"Ryanair","arrival":"Kaunas","arrivalIATA":"KUN","departure":"Edinburgas","departureIATA":"EDI","__v":0}
+{"_id":{"$oid":"5ce171caf18e0d0010cbcd2f"},"flightNumber":"FR2886","airline":"Ryanair","arrival":"Edinburgas","arrivalIATA":"EDI","departure":"Kaunas","departureIATA":"KUN","__v":0}
+{"_id":{"$oid":"5ce1a302f18e0d0010cbceed"},"flightNumber":"TVS4438","airline":"","arrival":"Helsinkis","arrivalIATA":"HEL","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce2658cf18e0d0010cbd43f"},"flightNumber":"GW3372","airline":"GetJet Airlines","arrival":"Korfu","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce2946bf18e0d0010cbd7c1"},"flightNumber":"GW3527","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5ce2a4d5f18e0d0010cbd897"},"flightNumber":"GW3373","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Rodas","departureIATA":"RHO","__v":0}
+{"_id":{"$oid":"5ce2e8caf18e0d0010cbdb25"},"flightNumber":"GW3538","airline":"GetJet Airlines","arrival":"Alanija","arrivalIATA":"GZP","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce3e5ebf18e0d0010cbe3e3"},"flightNumber":"XQ5952","airline":"Sunexpress","arrival":"Izmiras","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce3f1a3f18e0d0010cbe4af"},"flightNumber":"GW3605","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Hurgada","departureIATA":"HRG","__v":0}
+{"_id":{"$oid":"5ce3f1a3f18e0d0010cbe4b1"},"flightNumber":"GW3529","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Antalija","departureIATA":"AYT","__v":0}
+{"_id":{"$oid":"5ce3fd5bf18e0d0010cbe587"},"flightNumber":"XQ5953","airline":"Sunexpress","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Izmiras","__v":0}
+{"_id":{"$oid":"5ce40462f18e0d0010cbe5e3"},"flightNumber":"ENT5224","airline":"","arrival":"Madeira","arrivalIATA":"FNC","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce4101af18e0d0010cbe679"},"flightNumber":"ENT5223","airline":"","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Madeira","departureIATA":"FNC","__v":0}
+{"_id":{"$oid":"5ce45b1af18e0d0010cbe921"},"flightNumber":"GW3530","airline":"GetJet Airlines","arrival":"Antalija","arrivalIATA":"AYT","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce503dbf18e0d0010cbed73"},"flightNumber":"FR7602","airline":"Ryanair","arrival":"Brėmenas","arrivalIATA":"BRE","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce50d3af18e0d0010cbee21"},"flightNumber":"GW3412","airline":"GetJet Airlines","arrival":"Varna","arrivalIATA":"VAR","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce511eaf18e0d0010cbee8f"},"flightNumber":"FR5337","airline":"Ryanair","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Chanija","departureIATA":"CHQ","__v":0}
+{"_id":{"$oid":"5ce54323f18e0d0010cbf19f"},"flightNumber":"GW3607","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Šarm","departureIATA":"el","__v":0}
+{"_id":{"$oid":"5ce5790bf18e0d0010cbf3af"},"flightNumber":"FR5338","airline":"Ryanair","arrival":"Chanija","arrivalIATA":"CHQ","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce70c2af18e0d0010cc02d5"},"flightNumber":"GW3636","airline":"GetJet Airlines","arrival":"Larnaka","arrivalIATA":"LCA","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5ce7e87bf18e0d0010cc0af1"},"flightNumber":"GW3413","airline":"GetJet Airlines","arrival":"Vilnius","arrivalIATA":"VNO","departure":"Varna","departureIATA":"VAR","__v":0}
+{"_id":{"$oid":"5ce9af2af18e0d0010cc1b21"},"flightNumber":"GW3764","airline":"GetJet Airlines","arrival":"Barselona","arrivalIATA":"BCN","departure":"Vilnius","departureIATA":"VNO","__v":0}
+{"_id":{"$oid":"5cead422f18e0d0010cc2693"},"flightNumber":"FR2423","airline":"Ryanair","arrival":"Rodas","arrivalIATA":"RHO","departure":"Kaunas","departureIATA":"KUN","__v":0}
